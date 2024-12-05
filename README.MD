@@ -1,5 +1,11 @@
 # 🎨 Danbooru Scraper
 
+<div align="center">
+  <img src="assets/preview2.png" alt="Configuration Screen" width="800px">
+  <br>
+  <i>Configuration Screen / Tela de Configuração</i>
+</div>
+
 [English](#english) | [Português](#português)
 
 ---
@@ -7,6 +13,12 @@
 ## 🇺🇸 English
 
 A simple script to download images from Danbooru based on tags.
+
+<div align="center">
+  <img src="assets/preview1.png" alt="Images Folder Example" width="600px">
+  <br>
+  <i>Downloaded Images Folder / Pasta de Imagens Baixadas</i>
+</div>
 
 ### 📋 Requirements
 - ✅ Node.js installed on your system
